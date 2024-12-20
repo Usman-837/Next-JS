@@ -5,7 +5,7 @@ const AboutNotFound = () => {
   return (
     <div>
       <h1>This About Page not found</h1><br/>
-      <Link href='/'>Go Back Home Page</Link>
+      <Link href=''>Go Back Home Page</Link>
     </div>
   )
 }
